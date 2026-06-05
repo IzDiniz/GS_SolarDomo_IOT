@@ -8,6 +8,9 @@
   <li>Rafael Nascimento RM:553117</li>
 
   <br>
+
+  Link Video Youtube Projeto: https://youtu.be/A_vgotNUQYQ
+  <br>
   Link Wokwi: https://wokwi.com/projects/465017393456029697
 </ul>
 
